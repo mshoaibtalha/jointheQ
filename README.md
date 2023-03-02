@@ -4,7 +4,7 @@
 
 ## Final project at SALT by Team Apollo: 
 ### [Jakub](https://github.com/JakubRaczkowski)   
-### me [Shoaib](https://github.com/mshoaibtalha)   
+### me [(Shoaib)](https://github.com/mshoaibtalha)   
 ### [Chris](https://github.com/chrisobrien88) 
 ### [Nikki](https://github.com/nikkizhou)
 
